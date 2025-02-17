@@ -19,6 +19,24 @@ The Interactive Map provides a visual representation of hospitals in your area. 
 
 Once you’ve explored the hospitals and their data, Fella, your virtual assistant, will provide personalized recommendations. Fella analyzes your preferences, such as your location, cost considerations, and the types of care you need, and suggests hospitals that best match your criteria. Fella will help guide you toward the best options based on your needs.
 
+![Screenshot 2025-02-16 201610](https://github.com/user-attachments/assets/1a8f9f5a-cc51-4c1a-89f5-256c81e61034)
+Home Page
+
+![Screenshot 2025-02-16 202043](https://github.com/user-attachments/assets/93540cf6-a650-4f94-8be4-5a12814f4ee5)
+Registration Page
+
+![Screenshot 2025-02-16 202100](https://github.com/user-attachments/assets/aa9455b1-4872-451d-be33-5c128364f9bb)
+Symptom Page
+
+![Screenshot 2025-02-16 201639](https://github.com/user-attachments/assets/d3647868-98e0-4f93-b5c9-260e76e893a3)
+Map Page
+
+![Screenshot 2025-02-16 201718](https://github.com/user-attachments/assets/d822f9b9-ff2e-4de7-a17a-02ea09f34401)
+Hospital View
+
+![Screenshot 2025-02-16 201751](https://github.com/user-attachments/assets/a90c2484-9b16-4138-a00a-762a113555ab)
+AI Chat Page
+
 ## How We Built It
 
 MongoDB was used to store all user data, including usernames, passwords, and other relevant information. ExpressJS facilitated a backend server to seamlessly perform RESTful API functions with our remote MongoDB database. ReactJS, along with its extensive component libraries, was used to design an interactive and responsive front-end that ensures a simple and intuitive user experience. NodeJS integrated all components, enabling smooth functionality across the stack. The Langchain and Groq APIs, in conjunction with LLaMA 3.3-70B, power an insightful, user-friendly RAG AI companion that provides personalized guidance to patients based on their unique demographics.
